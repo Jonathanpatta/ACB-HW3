@@ -1,0 +1,7 @@
+.vscode/
+1_global_alignment_with_a_fixed_indel_penalty/
+2_local_alignment_with_affine_gap_penalty/
+*.py
+*.exe
+*.zip
+blosum62.txt
